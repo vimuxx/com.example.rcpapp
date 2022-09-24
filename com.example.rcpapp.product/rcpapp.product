@@ -15,6 +15,7 @@
    </plugins>
 
    <features>
+      <feature id="com.example.rcpapp.feature" installMode="root"/>
       <feature id="org.eclipse.platform" installMode="root"/>
    </features>
 

@@ -10,6 +10,7 @@
     <tycho-version>2.7.0</tycho-version>
   </properties>
   <modules>
+    <module>com.example.rcpapp.feature</module>
     <module>com.example.rcpapp.product</module>
     <module>com.example.rcpapp.target</module>
   </modules>
