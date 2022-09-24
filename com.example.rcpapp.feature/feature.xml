@@ -17,4 +17,28 @@
       [Enter License Description here.]
    </license>
 
+   <plugin
+         id="org.eclipse.cdt.lsp.clangd"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"/>
+
+   <plugin
+         id="org.eclipse.cdt.lsp.core"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"/>
+
+   <plugin
+         id="org.eclipse.cdt.lsp.ui"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"/>
+
+   <plugin
+         id="org.eclipse.lsp4e"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"/>
+
 </feature>

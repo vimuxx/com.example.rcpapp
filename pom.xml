@@ -13,6 +13,10 @@
     <module>com.example.rcpapp.feature</module>
     <module>com.example.rcpapp.product</module>
     <module>com.example.rcpapp.target</module>
+    <module>org.eclipse.cdt.lsp.clangd</module>
+    <module>org.eclipse.cdt.lsp.core</module>
+    <module>org.eclipse.cdt.lsp.ui</module>
+    <module>org.eclipse.lsp4e</module>
   </modules>
   <build>
     <plugins>
